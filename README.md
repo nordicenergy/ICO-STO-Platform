@@ -1,2 +1,3 @@
-# dashboard
+# DASHBOARD
+
 Nordic Energy ICO Dashboard
