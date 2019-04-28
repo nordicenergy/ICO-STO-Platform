@@ -1,50 +1,51 @@
 # ICO /STO Token Sale Management Dashboard
 
-#Nordic Energy is full functional Dashboard for manage our ICO / STO token sale. Our dashboard helps contributor and investors to purchase Smart Energy token very easily, and can manage them.
+Nordic Energy is full functional Dashboard for manage our ICO / STO token sale. Our dashboard helps contributor and investors to purchase Nordic Energy (NGY) token very easily, and can manage them.
 
 
-#The Dashboard
+# The Dashboard
 
-#After register and login, you will see the user dashboard. Here you can see the you contributed balance and your NGY token balance. 
+After register and login, you will see the user dashboard. Here you can see the you contributed balance and your NGY token balance. 
 
 
-#Register / login
+# Register / login
 
 www.nordicenergy.app
 
 
-#Profile
+# Profile
 
-#You can change your profile details from the profile section. Update personal data.
+You can change your profile details from the profile section. Update personal data.
 
-#After click the profile section you will get this page and can update your personal data. You can not change your given email.
-
-
-#KYC Application
+After click the profile section you will get this page and can update your personal data. You can not change your given email.
 
 
-#Buy Tokens
-
-#You can buy our tokens using ETH, BTC, LTC, USD to make investment.
+# KYC Application
 
 
-#Payment
+# Buy Tokens
 
-#Confirm Payment.
-
-
-#Bank payment details
-
-#IBAN/BIC banking feature.
+You can buy our tokens using ETH, BTC, LTC, USD to make investment.
 
 
-#Transactions
+# Payment
 
-#In Transaction section you can see all the transaction you have made. 
+Confirm Payment.
 
 
-#Caution:
+# Bank payment details
 
-#System does not automatically actual token (smart contract) to your contributor wallet. You have to send actual token after or during your sales.
+IBAN/BIC banking feature.
+
+
+# Transactions
+
+In Transaction section you can see all the transaction you have made. 
+
+
+
+# Caution:
+
+System does not automatically actual token (smart contract) to your contributor wallet. You have to send actual token after or during your sales.
 
 
