@@ -1,3 +1,3 @@
-# DASHBOARD
+# ICO DASHBOARD
 
-Nordic Energy ICO Dashboard
+Nordic Energy ICO Token Dashboard
