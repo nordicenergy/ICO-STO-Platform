@@ -5,7 +5,7 @@ Nordic Energy is full functional Dashboard for manage our ICO / STO token sale. 
 
 # The Dashboard
 
-After register and login, you will see the user dashboard. Here you can see the you contributed balance and your NGY token balance. 
+After register and login, you will see the user dashboard. Here you can see the you contributed balance and your Nordic Energy token balance. 
 
 
 # Register / login
