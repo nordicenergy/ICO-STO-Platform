@@ -2,7 +2,7 @@ https://drive.google.com/open?id=1qjK4TP0lzUG-0L676_Y2Nw2YqpPylc4C
 
 
 
-# Nordic Energy - ICO / STO Token Sale Platform
+# Nordic Energy - ICO / STO Token Sale Launchpad
 
 Nordic Energy is full functional Dashboard for manage our ICO / STO token sale. Our dashboard helps contributor and investors to purchase Nordic Energy tokens very easily, and can manage them.
 
