@@ -2,14 +2,14 @@ https://drive.google.com/open?id=1qjK4TP0lzUG-0L676_Y2Nw2YqpPylc4C
 
 
 
-
 # Nordic Energy ICO & STO Launch Platform´s
 
 is a fully compliant security and utility token issuance platform with a post-token issuance our community, projects and company management, without any clouds and risk of trust to third party. Keep all private keys on your side (“NoWallet-NoHack”) with KYC services and stay in safe on legal field. 
 
-1. Token sale platform and statistics (dashboard) panel to track Nordic Energy ICO & STO’s progress. 
 
-2  Ready-to-use smart contract, issuance and distribution of multiple tokens. Platform helps contributor and investor´s to purchase tokens very easily, manage and receive them securely.
+#### 1. Token sale platform and statistics (dashboard) panel to track Nordic Energy ICO & STO’s progress. 
+
+#### 2  Ready-to-use smart contract, issuance and distribution of multiple tokens. Platform helps contributor and investor´s to purchase tokens very easily, manage and receive them securely.
 
 
 
@@ -21,13 +21,15 @@ We do not store any tokens, crypto assets or private keys on your behalf. All tr
 
 #### Payment Methods
 
-Accept payments with Visa/MasterCard, PayPal, Bank Transfer, Bitcoin, EOSIO, Ethereum, +20 cryptocurrencies to pay tokens directly on addresses and account on your control.
+Accept payments with: Visa/MasterCard, PayPal, Bank Transfer, Bitcoin, EOSIO, Ethereum, +20 cryptocurrencies. 
+
+Pay tokens directly on addresses and account on your control.
 
 
 
-#### Register on The ICO & STO token sale launch platform
+#### Register on The ICO & STO token sale launch platform here:
 
-##### [https://www.nordicenergy.io) or direct on the dashboard: (https://www.nordicenergy.app).
+##### [https://www.nordicenergy.io) or direct link: (https://www.nordicenergy.app)
 
 
 
@@ -36,9 +38,13 @@ Accept payments with Visa/MasterCard, PayPal, Bank Transfer, Bitcoin, EOSIO, Eth
 After register/login, you will see the user dashboard. Here you can see the you contributed balance and your purchased token balance.
 
 
-#### Terms to Use
+### Terms and Conditions
 
-About Us, projects descriptions, business presentation and whitepaper.
+
+##### Token Sales & Terms:
+
+##### Privacy Policy:
+
 
 
 #### Profile Page
