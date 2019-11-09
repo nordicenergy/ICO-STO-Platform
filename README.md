@@ -8,17 +8,17 @@ https://drive.google.com/open?id=1qjK4TP0lzUG-0L676_Y2Nw2YqpPylc4C
 Token Sale Dashboard is a unique platform which allows to conducting ICO/STOs, pre-sales, token sales, and crowdfunding campaigns through automating processes and introducing business models in all four essential ICO/STO components: Technology solution, Legal solution, Business and Marketing solutions.
 
 
+
 #### Token sale platform and statistics (dashboard) panel to track Nordic Energy (ICO/STO) token sales progress
 
 ICO/STO dashboard where you can track how the process goes, and allows you to be informed about the token sale process, account balance, blockchain transactions, raised funds and etc..
 
 
+
+#### Investor investor onboarding - Intuitive and designed to offer the best user experience for the investors
+
+
 ##### Featuring:
-
-##### Investor Dashboard
-
-- Intuitive and designed to offer the best user experience for the investors.
-
 
 - Two step token purchase
 
@@ -54,9 +54,7 @@ ICO/STO dashboard where you can track how the process goes, and allows you to be
 
 
 
-##### Admin Dashboard
-
-- All-in-One features to launch and manage our token sales.
+#### Admin Dashboard - All-In-One features to launch and manage ICO/STO token sales.
 
 
 
