@@ -1,8 +1,7 @@
 https://drive.google.com/open?id=1qjK4TP0lzUG-0L676_Y2Nw2YqpPylc4C
 
 
-
-# Nordic Energy ICO & STO Launch Platform´s
+# Nordic Energy ICO & STO Token Sale Platform
 
 is a fully compliant security and utility token issuance platform with a post-token issuance our community, projects and company management, without any clouds and risk of trust to third party. Keep all private keys on your side (“NoWallet-NoHack”) with KYC services and stay in safe on legal field. 
 
