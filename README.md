@@ -169,6 +169,7 @@ Security and utility token issuance platform with a post-token issuance to our c
 #### Fuure Developments and upgrades to..
 
 - multi-token support of other Co-projects
+- ICO/STO business and marketing version
 - support native cryptocurrency (NEC)
 - support Security Token (NEST)
 - AirDrop token
