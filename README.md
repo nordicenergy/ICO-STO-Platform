@@ -168,11 +168,11 @@ Security and utility token issuance platform with a post-token issuance to our c
 
 #### Fuure Developments and upgrades to..
 
-- multi-token support of other Co-projects
-- ICO/STO business and marketing version
+- Multi-token support of other Co-projects
+- User own ICO/STO Launcher and business version
 - support native cryptocurrency (NEC)
 - support Security Token (NEST)
-- AirDrop token
+- Airdrop token
 - support multiple tokens and asset issuances in three different blockchains - Ethereum, Stellar, and EOSIO.
 
 #
