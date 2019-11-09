@@ -17,6 +17,7 @@ ICO/STO dashboard where you can track how the process goes, and allows you to be
 
 #### Investor investor onboarding - Intuitive and designed to offer the best user experience for the investors
 
+#
 
 ##### Featuring:
 
@@ -52,19 +53,24 @@ ICO/STO dashboard where you can track how the process goes, and allows you to be
 
 - Investor contract execution
 
-
+#
 
 #### Admin Dashboard - All-In-One features to launch and manage ICO/STO token sales.
 
 
+#
 
 #### We are not a custodian of your funds or assets!
 
 We do not store any tokens, crypto assets or private keys on your behalf. All transactions are made by users on blockchain and are not controlled by us or third parties. It is totally safe standalone “your property solution”.
 
 
+#
 
-#### Payment Methods
+### Details
+
+
+#### Payment Methods:
 
 Accept payments with: Visa/MasterCard, PayPal, Bank Transfer, Bitcoin, EOSIO, Ethereum, +20 cryptocurrencies. 
 
