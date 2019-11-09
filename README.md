@@ -1,14 +1,27 @@
 https://drive.google.com/open?id=1qjK4TP0lzUG-0L676_Y2Nw2YqpPylc4C
 
 
-# Nordic Energy - ICO & STO Token Sale Platform
+# Platform for Launching ICO/STO Token Sales
 
-is a fully compliant security and utility token issuance platform with a post-token issuance our community, projects and company management, without any clouds and risk of trust to third party. Keep all private keys on your side (“NoWallet-NoHack”) with KYC services and stay in safe on legal field. 
+### Platform with features required to launch and manage the our token sales and community management:
+
+Token Sale Dashboard is a unique platform which allows to conducting ICO/STOs, pre-sales, token sales, and crowdfunding campaigns through automating processes and introducing business models in all four essential ICO/STO components: Technology solution, Legal solution, Business and Marketing solutions.
 
 
-#### 1. Token sale platform and statistics (dashboard) panel to track Nordic Energy ICO & STO’s progress. 
+#### Token sale platform and statistics (dashboard) panel to track Nordic Energy (ICO/STO) token sales progress
 
-#### 2  Ready-to-use smart contract, issuance and distribution of multiple tokens. Platform helps contributor and investor´s to purchase tokens very easily, manage and receive them securely.
+ICO/STO dashboard where you can track how the process goes, and allows you to be informed about the token sale process, account balance, blockchain transactions, raised funds and etc..
+
+
+##### Featuring:
+
+# Investor Dashboard
+
+- Intuitive and designed to offer the best user experience for the investors
+
+# Admin Dashboard
+
+- All-in-One features to launch and manage our token sales.
 
 
 
@@ -64,7 +77,7 @@ Yes/Yes
 
 #### Payment Methods
 
-It’s support major and most popular cryptocurrencies** BTC, ETH, LTC, EOS, BCH, BNB, TRX, XRP, XLM and USDT (Tether). Fiat: Bank Transfer, Visa/MasterCard payments to make investment.
+It’s support major and most popular cryptocurrencies** BTC, ETH, LTC, EOS, BCH, BNB, TRX, XRP, XLM, DSH, and USDT (Tether). Fiat: Bank Transfer, Visa/MasterCard payments to make investment.
 
 
 
@@ -87,13 +100,17 @@ Dashboard has built-in referral bonus management system so investor/contributor 
 
 #### Security & Privacy Policy
 
+Security and utility token issuance platform with a post-token issuance to our community and company management, without any clouds and risk of trust to third party. Keep all private keys on your side (“NoWallet-NoHack”) with KYC services and stay in safe on legal field. 
+
+
+
 ##### Two-Factor Verification (2FA):
 
 1. Two-factor authentication is a method for protection your web account. When it is activated you need to enter not only your password, but also a special code. 
 
 2. You can receive this code by in mobile app or email. Even if third person will find your password, then can’t access with that code.
 
-3. ICO & STO Platform included 2-Layer security option as Two-Factor Authentication (2FA) for every users so they can protect their account more strongly. Also system allow to change password through email confirmation which give more security for users.
+3. ICO/STO Platform included 2-Layer security option as Two-Factor Authentication (2FA) for every users so they can protect their account more strongly. Also system allow to change password through email confirmation which give more security for users.
 
 
 ##### Information Collection And Use:
