@@ -1,7 +1,7 @@
 https://drive.google.com/open?id=1qjK4TP0lzUG-0L676_Y2Nw2YqpPylc4C
 
 
-# Platform for Launching ICO & STO Token Sales
+# Platform for Launching Nordic Energy Token Sale
 
 
 
