@@ -1,7 +1,17 @@
-https://drive.google.com/open?id=1qjK4TP0lzUG-0L676_Y2Nw2YqpPylc4C
 
-
-# Platform for Launching Nordic Energy Token Sale
+<p align="center">
+  <a href="httos://nordicenergy.app/">
+    <img height="200px" src="https://drive.google.com/open?id=1qjK4TP0lzUG-0L676_Y2Nw2YqpPylc4Cg">
+  </a>
+  <br>
+</p>
+<p align="center">
+  <a href="https://nordicenergy.app/">Project Website</a> |
+  <a href="https://nordicenergy.app/donate">Donate</a> |
+  <a href="https://github.com/sponsors/rdymac">Sponsor</a> |
+  <a href="https://nordicenergy.app/buy">Buy Tokens</a>
+</p>
+<h1 align="center">Nordic Energy Token Sale Launcher WebApp</h1>
 
 
 
