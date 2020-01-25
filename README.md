@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="httos://nordicenergy.app/">
-    <img height="200px" src="https://drive.google.com/open?id=1jZlbO0t_QQQjrZebRAXUpCcUcI-EWtU3">
+    <img height="200px" src="https://drive.google.com/open?id=1mMJpNANlomInjl1oqeygcr25-4i0oZks">
   </a>
   <br>
 </p>
